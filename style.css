@@ -19,7 +19,7 @@ body {
     /*border: 1px solid red;*/
     border-radius: 30px;
     overflow: hidden;
-    transition: 1s;
+    transition: 3s ease;
 }
 
 .background {
